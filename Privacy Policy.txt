@@ -1,0 +1,42 @@
+# Privacy Policy for Phonics ESL App Suite
+
+**Effective Date:** September 16, 2026
+
+## Introduction
+This Privacy Policy applies to the Phonics ESL App Suite, which includes the following applications:
+- Phonics Level 1
+- Phonics Level 2
+- Phonics Level 3
+
+We are committed to protecting the privacy and security of our users, particularly children. Our apps are designed for educational purposes and we strictly adhere to the Children’s Online Privacy Protection Act (COPPA).
+
+## Data Collection
+**We do not collect any personal information from children.**
+Our applications do not require users to create an account, provide a name, email address, or any other personally identifiable information to use the core features of the apps.
+
+### Information We Do Not Collect
+- We do not collect names, email addresses, phone numbers, or physical addresses.
+- We do not collect location data (GPS).
+- We do not collect photos, videos, or audio recordings from the device.
+- We do not use tracking cookies or persistent identifiers for targeted advertising.
+
+### Automatically Collected Information
+We may collect non-personally identifiable information solely for the purpose of improving the app's performance and supporting its internal operations. This may include:
+- Crash reports and app performance data.
+- Anonymous usage statistics (e.g., which levels are played most often).
+
+This data is completely anonymized and cannot be used to identify any individual user.
+
+## Third-Party Services
+Our apps do not contain third-party advertisements or social media plugins.
+
+## Parental Consent
+Because we do not collect personal information from children, COPPA does not require us to obtain verifiable parental consent. However, we encourage parents and guardians to be involved in their children’s educational activities and monitor their app usage.
+
+## Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make material changes to this policy, we will update the "Effective Date" at the top of this document. We encourage parents and guardians to review this policy periodically.
+
+## Contact Us
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
+**Email:** syedmasood9245@gmail.com
+**Website:** codearter.com
